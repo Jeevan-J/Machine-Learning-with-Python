@@ -23,7 +23,7 @@ There are plent of IDE's for python. Few among them are mentioned below:
 4. <b> Google Colab </b>- Online Jupyter Environment (https://colab.research.google.com/)
 5. <b> Kaggle Notebooks </b>- Online Jupyter Notebook (https://www.kaggle.com/notebooks)
 
-Geeks for Geeks is definitely a game changer to learn new techniques in almost every language, so visit https://www.geeksforgeeks.org/python-programming-language/ randomly and try to explore as much as you can.
+Geeks for Geeks is definitely a game changer to learn new techniques in almost every language, so visit https://www.geeksforgeeks.org/python-programming-language/ randomly and try to explore as much as you can on DataTypes, OOPs(Object Oriented Programming), Input/Output, Data Analysis, Numpy, Pandas and Machine Learning.
 
 ### Learning by practice is the best suite to learn python in quicker and faster way.<br> So Practice and get better!!
 We will practice as we learn.
