@@ -35,4 +35,4 @@ The best way to get a feel of Machine Learning is to see its real world applicat
 3. Machine Learning Basics by Edureka - https://www.youtube.com/watch?v=hjh1ikznScg
 4. A Friendly Introduction to Machine Learning - https://www.youtube.com/watch?v=IpGxLWOIZy4
 
-Hope you got the Introduction well, we will move on to Module 2
+Hope you got the Introduction well, we will move on to Module 2. (You can also see SettingUpEnvironment.md in Module 1)
