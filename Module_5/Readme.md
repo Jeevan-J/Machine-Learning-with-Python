@@ -1,1 +1,1 @@
-
+Since we already have many online resources, I will try to include as many resources as possible from basics in each and every topic and I will try to mostly concentrate on practical usage. So gear up to explorer online resources and practice.
